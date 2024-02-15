@@ -1,0 +1,8 @@
+//This is a document just so I can type out my ideas - essentially it'll be on .ignore later just so I don't worry bout it. 
+
+//Which Idea to go for first? good questiong - I suppse if we're going down with the route of
+    //encoding images and then decoding them it would be only sensible to create the coder first
+        //Probably the idea of using alpha channels is the right one. I probably should start seeing if I can manipulate it on a test file..Nah starting on the proper cpp will be motivating rather than moving it out later
+        
+
+As a point! I really do wanna make an image converter to password - making a software that converts images to a very unique code sounds nice.
